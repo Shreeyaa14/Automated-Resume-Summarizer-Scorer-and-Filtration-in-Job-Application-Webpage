@@ -24,3 +24,13 @@ This project is a web-based recruitment system that automates resume collection,
 * Resume screening for recruiters
 
 **Sample Outputs**
+
+<img width="722" height="352" alt="image" src="https://github.com/user-attachments/assets/df1d85b6-5c5c-4642-b210-1030400fbbe1" />
+
+<img width="716" height="355" alt="image" src="https://github.com/user-attachments/assets/900dbd43-539c-4cd8-a86b-42d5d5f45bad" />
+
+<img width="715" height="347" alt="image" src="https://github.com/user-attachments/assets/68c179f8-2f51-4c67-b01b-764aad5d2891" />
+
+
+
+
