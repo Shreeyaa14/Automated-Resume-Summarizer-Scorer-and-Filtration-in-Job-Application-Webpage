@@ -1,4 +1,4 @@
-# Automated-Resume-Summarizer-Scorer-and-Filtration-in-Job-Application-Webpage
+# Automated Resume Summarizer, Scorer and Filtration in Job Application Webpage
 
 **Overview**
 This project is a web-based recruitment system that automates resume collection, filtration, and candidate scoring through an integrated job applicant website, AI-based resume analysis, and an admin dashboard for HR. It helps recruiters efficiently shortlist candidates by reducing manual resume screening.
